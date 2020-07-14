@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>Asaba's Boilerplate | Starter</title>
+  <title>LarAdmin Boilerplate | Starter</title>
 
   <!-- Theme style -->
   <link rel="stylesheet" href="{{ asset('css/app.css') }}">

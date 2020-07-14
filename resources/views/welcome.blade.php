@@ -81,12 +81,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Asaba's Boilerplate
+                    LarAdmin Boilerplate
                 </div>
 
                 <div class="links">
-                    <a href="https://laracasts.com">Docs</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laradmin.msenyu.xyz" target="_blank">Docs</a>
+                    <a href="https://github.com/williamug/larAdmin">GitHub</a>
                     <a href="https://laravel.com/docs">Laravel Docs</a>
                 </div>
             </div>
